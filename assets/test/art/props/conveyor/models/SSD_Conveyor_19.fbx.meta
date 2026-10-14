@@ -1,0 +1,105 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8a80f7a9-faa1-48f9-a439-8b6f0d5bd0bd",
+  "files": [],
+  "subMetas": {
+    "d6e5c": {
+      "importer": "gltf-mesh",
+      "uuid": "8a80f7a9-faa1-48f9-a439-8b6f0d5bd0bd@d6e5c",
+      "displayName": "",
+      "id": "d6e5c",
+      "name": "SSD_Conveyor_19_a.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 36
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a3ff3": {
+      "importer": "gltf-mesh",
+      "uuid": "8a80f7a9-faa1-48f9-a439-8b6f0d5bd0bd@a3ff3",
+      "displayName": "",
+      "id": "a3ff3",
+      "name": "SSD_Conveyor_19_b.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 16
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b02dc": {
+      "importer": "gltf-scene",
+      "uuid": "8a80f7a9-faa1-48f9-a439-8b6f0d5bd0bd@b02dc",
+      "displayName": "",
+      "id": "b02dc",
+      "name": "SSD_Conveyor_19.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "8a80f7a9-faa1-48f9-a439-8b6f0d5bd0bd@d6e5c",
+        "8a80f7a9-faa1-48f9-a439-8b6f0d5bd0bd@a3ff3"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "8a80f7a9-faa1-48f9-a439-8b6f0d5bd0bd@b02dc"
+      ]
+    },
+    "tangents": 1,
+    "meshSimplify": {
+      "enable": false
+    },
+    "meshCompress": {
+      "enable": true,
+      "compress": true
+    }
+  }
+}

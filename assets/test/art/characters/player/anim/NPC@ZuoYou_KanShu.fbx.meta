@@ -1,0 +1,99 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "78d6a485-a4d3-4024-9de5-9d80162e9558",
+  "files": [
+    "__original-animation-0.bin"
+  ],
+  "subMetas": {
+    "97d22": {
+      "importer": "gltf-animation",
+      "uuid": "78d6a485-a4d3-4024-9de5-9d80162e9558@97d22",
+      "displayName": "",
+      "id": "97d22",
+      "name": "ZuoYou_KanShu.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.3333333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "2415d": {
+      "importer": "gltf-scene",
+      "uuid": "78d6a485-a4d3-4024-9de5-9d80162e9558@2415d",
+      "displayName": "",
+      "id": "2415d",
+      "name": "NPC@ZuoYou_KanShu.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.3333333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "ZuoYou_KanShu",
+            "from": 0,
+            "to": 1.3333333730697632,
+            "wrapMode": 2,
+            "previousId": "97d22"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "78d6a485-a4d3-4024-9de5-9d80162e9558@2415d"
+      ]
+    }
+  }
+}

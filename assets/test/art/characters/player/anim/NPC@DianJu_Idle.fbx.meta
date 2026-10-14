@@ -1,0 +1,99 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "32c9a22e-5ab7-40c1-8a2d-533ad1be78ef",
+  "files": [
+    "__original-animation-0.bin"
+  ],
+  "subMetas": {
+    "d17f8": {
+      "importer": "gltf-animation",
+      "uuid": "32c9a22e-5ab7-40c1-8a2d-533ad1be78ef@d17f8",
+      "displayName": "",
+      "id": "d17f8",
+      "name": "DianJu_Idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "33bfc": {
+      "importer": "gltf-scene",
+      "uuid": "32c9a22e-5ab7-40c1-8a2d-533ad1be78ef@33bfc",
+      "displayName": "",
+      "id": "33bfc",
+      "name": "NPC@DianJu_Idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "DianJu_Idle",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "d17f8"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "32c9a22e-5ab7-40c1-8a2d-533ad1be78ef@33bfc"
+      ]
+    }
+  }
+}

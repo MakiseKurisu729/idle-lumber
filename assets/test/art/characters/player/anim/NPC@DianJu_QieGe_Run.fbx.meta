@@ -1,0 +1,99 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "66949fe5-9082-4ef1-b5c8-0b48186fdcf0",
+  "files": [
+    "__original-animation-0.bin"
+  ],
+  "subMetas": {
+    "f1a78": {
+      "importer": "gltf-animation",
+      "uuid": "66949fe5-9082-4ef1-b5c8-0b48186fdcf0@f1a78",
+      "displayName": "",
+      "id": "f1a78",
+      "name": "DianJu_QieGe_Run.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "3f45f": {
+      "importer": "gltf-scene",
+      "uuid": "66949fe5-9082-4ef1-b5c8-0b48186fdcf0@3f45f",
+      "displayName": "",
+      "id": "3f45f",
+      "name": "NPC@DianJu_QieGe_Run.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.1666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "DianJu_QieGe_Run",
+            "from": 0,
+            "to": 1.1666666269302368,
+            "wrapMode": 2,
+            "previousId": "f1a78"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "66949fe5-9082-4ef1-b5c8-0b48186fdcf0@3f45f"
+      ]
+    }
+  }
+}

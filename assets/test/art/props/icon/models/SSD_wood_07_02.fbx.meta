@@ -1,0 +1,276 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "03bb6c70-70b0-40c4-8c21-f4c646cfe850",
+  "files": [],
+  "subMetas": {
+    "31662": {
+      "importer": "gltf-mesh",
+      "uuid": "03bb6c70-70b0-40c4-8c21-f4c646cfe850@31662",
+      "displayName": "",
+      "id": "31662",
+      "name": "SSD_wood_07_02_g.mesh",
+      "userData": {
+        "gltfIndex": 8,
+        "triangleCount": 32
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "82274": {
+      "importer": "gltf-mesh",
+      "uuid": "03bb6c70-70b0-40c4-8c21-f4c646cfe850@82274",
+      "displayName": "",
+      "id": "82274",
+      "name": "SSD_wood_07_02_c.mesh",
+      "userData": {
+        "gltfIndex": 9,
+        "triangleCount": 68
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "96178": {
+      "importer": "gltf-mesh",
+      "uuid": "03bb6c70-70b0-40c4-8c21-f4c646cfe850@96178",
+      "displayName": "",
+      "id": "96178",
+      "name": "SSD_wood_07_02_d.mesh",
+      "userData": {
+        "gltfIndex": 5,
+        "triangleCount": 20
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4ab4c": {
+      "importer": "gltf-mesh",
+      "uuid": "03bb6c70-70b0-40c4-8c21-f4c646cfe850@4ab4c",
+      "displayName": "",
+      "id": "4ab4c",
+      "name": "SSD_wood_07_02_a.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 70
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5b41d": {
+      "importer": "gltf-mesh",
+      "uuid": "03bb6c70-70b0-40c4-8c21-f4c646cfe850@5b41d",
+      "displayName": "",
+      "id": "5b41d",
+      "name": "SSD_wood_07_02_m.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 56
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d7118": {
+      "importer": "gltf-mesh",
+      "uuid": "03bb6c70-70b0-40c4-8c21-f4c646cfe850@d7118",
+      "displayName": "",
+      "id": "d7118",
+      "name": "SSD_wood_07_02_l.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 34
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5fbd6": {
+      "importer": "gltf-mesh",
+      "uuid": "03bb6c70-70b0-40c4-8c21-f4c646cfe850@5fbd6",
+      "displayName": "",
+      "id": "5fbd6",
+      "name": "SSD_wood_07_02_h.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 34
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b30f9": {
+      "importer": "gltf-mesh",
+      "uuid": "03bb6c70-70b0-40c4-8c21-f4c646cfe850@b30f9",
+      "displayName": "",
+      "id": "b30f9",
+      "name": "SSD_wood_07_02_e.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 20
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1557": {
+      "importer": "gltf-mesh",
+      "uuid": "03bb6c70-70b0-40c4-8c21-f4c646cfe850@f1557",
+      "displayName": "",
+      "id": "f1557",
+      "name": "SSD_wood_07_02_f.mesh",
+      "userData": {
+        "gltfIndex": 6,
+        "triangleCount": 30
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "89a36": {
+      "importer": "gltf-mesh",
+      "uuid": "03bb6c70-70b0-40c4-8c21-f4c646cfe850@89a36",
+      "displayName": "",
+      "id": "89a36",
+      "name": "SSD_wood_07_02_i.mesh",
+      "userData": {
+        "gltfIndex": 7,
+        "triangleCount": 30
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8bf5a": {
+      "importer": "gltf-mesh",
+      "uuid": "03bb6c70-70b0-40c4-8c21-f4c646cfe850@8bf5a",
+      "displayName": "",
+      "id": "8bf5a",
+      "name": "SSD_wood_07_02_b.mesh",
+      "userData": {
+        "gltfIndex": 10,
+        "triangleCount": 52
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ce512": {
+      "importer": "gltf-scene",
+      "uuid": "03bb6c70-70b0-40c4-8c21-f4c646cfe850@ce512",
+      "displayName": "",
+      "id": "ce512",
+      "name": "SSD_wood_07_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "03bb6c70-70b0-40c4-8c21-f4c646cfe850@4ab4c",
+        "03bb6c70-70b0-40c4-8c21-f4c646cfe850@5b41d",
+        "03bb6c70-70b0-40c4-8c21-f4c646cfe850@d7118",
+        "03bb6c70-70b0-40c4-8c21-f4c646cfe850@5fbd6",
+        "03bb6c70-70b0-40c4-8c21-f4c646cfe850@b30f9",
+        "03bb6c70-70b0-40c4-8c21-f4c646cfe850@96178",
+        "03bb6c70-70b0-40c4-8c21-f4c646cfe850@f1557",
+        "03bb6c70-70b0-40c4-8c21-f4c646cfe850@89a36",
+        "03bb6c70-70b0-40c4-8c21-f4c646cfe850@31662",
+        "03bb6c70-70b0-40c4-8c21-f4c646cfe850@82274",
+        "03bb6c70-70b0-40c4-8c21-f4c646cfe850@8bf5a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "03bb6c70-70b0-40c4-8c21-f4c646cfe850@ce512"
+      ]
+    },
+    "tangents": 1,
+    "meshSimplify": {
+      "enable": false
+    },
+    "meshCompress": {
+      "enable": true,
+      "compress": true
+    }
+  }
+}

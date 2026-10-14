@@ -1,0 +1,124 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "369daf2d-c1e3-4f65-9f91-1fdefb37f76d",
+  "files": [],
+  "subMetas": {
+    "5d9a9": {
+      "importer": "gltf-mesh",
+      "uuid": "369daf2d-c1e3-4f65-9f91-1fdefb37f76d@5d9a9",
+      "displayName": "",
+      "id": "5d9a9",
+      "name": "SSD_famuji_05_a.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 182
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2d840": {
+      "importer": "gltf-mesh",
+      "uuid": "369daf2d-c1e3-4f65-9f91-1fdefb37f76d@2d840",
+      "displayName": "",
+      "id": "2d840",
+      "name": "SSD_famuji_05_c.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 360
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2f013": {
+      "importer": "gltf-mesh",
+      "uuid": "369daf2d-c1e3-4f65-9f91-1fdefb37f76d@2f013",
+      "displayName": "",
+      "id": "2f013",
+      "name": "SSD_famuji_05_b.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 136
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6a96a": {
+      "importer": "gltf-scene",
+      "uuid": "369daf2d-c1e3-4f65-9f91-1fdefb37f76d@6a96a",
+      "displayName": "",
+      "id": "6a96a",
+      "name": "SSD_famuji_05.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "369daf2d-c1e3-4f65-9f91-1fdefb37f76d@5d9a9",
+        "369daf2d-c1e3-4f65-9f91-1fdefb37f76d@2d840",
+        "369daf2d-c1e3-4f65-9f91-1fdefb37f76d@2f013"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "369daf2d-c1e3-4f65-9f91-1fdefb37f76d@6a96a"
+      ]
+    },
+    "tangents": 1,
+    "meshSimplify": {
+      "enable": false
+    },
+    "meshCompress": {
+      "enable": true,
+      "compress": true
+    }
+  }
+}

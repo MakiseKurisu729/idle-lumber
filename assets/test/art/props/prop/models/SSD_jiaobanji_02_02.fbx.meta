@@ -1,0 +1,86 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0000f3e5-6ba1-430b-be36-08ad84a0cd3c",
+  "files": [],
+  "subMetas": {
+    "06850": {
+      "importer": "gltf-mesh",
+      "uuid": "0000f3e5-6ba1-430b-be36-08ad84a0cd3c@06850",
+      "displayName": "",
+      "id": "06850",
+      "name": "SSD_jiaobanji_02_02.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 224
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c694c": {
+      "importer": "gltf-scene",
+      "uuid": "0000f3e5-6ba1-430b-be36-08ad84a0cd3c@c694c",
+      "displayName": "",
+      "id": "c694c",
+      "name": "SSD_jiaobanji_02_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "0000f3e5-6ba1-430b-be36-08ad84a0cd3c@06850"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "0000f3e5-6ba1-430b-be36-08ad84a0cd3c@c694c"
+      ]
+    },
+    "tangents": 1,
+    "meshSimplify": {
+      "enable": false
+    },
+    "meshCompress": {
+      "enable": true,
+      "compress": true
+    }
+  }
+}

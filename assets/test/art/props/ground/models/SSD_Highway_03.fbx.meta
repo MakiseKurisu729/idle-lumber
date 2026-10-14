@@ -1,0 +1,86 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ac143fcc-18ea-405f-852c-a88c3f3f738b",
+  "files": [],
+  "subMetas": {
+    "28869": {
+      "importer": "gltf-scene",
+      "uuid": "ac143fcc-18ea-405f-852c-a88c3f3f738b@28869",
+      "displayName": "",
+      "id": "28869",
+      "name": "SSD_Highway_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cad22": {
+      "importer": "gltf-mesh",
+      "uuid": "ac143fcc-18ea-405f-852c-a88c3f3f738b@cad22",
+      "displayName": "",
+      "id": "cad22",
+      "name": "SSD_Highway_03.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "ac143fcc-18ea-405f-852c-a88c3f3f738b@cad22"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "ac143fcc-18ea-405f-852c-a88c3f3f738b@28869"
+      ]
+    },
+    "tangents": 1,
+    "meshSimplify": {
+      "enable": false
+    },
+    "meshCompress": {
+      "enable": true,
+      "compress": true
+    }
+  }
+}

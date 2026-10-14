@@ -1,0 +1,86 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "928402f1-d7f4-4281-9702-930b1a98d0d8",
+  "files": [],
+  "subMetas": {
+    "9aabd": {
+      "importer": "gltf-mesh",
+      "uuid": "928402f1-d7f4-4281-9702-930b1a98d0d8@9aabd",
+      "displayName": "",
+      "id": "9aabd",
+      "name": "SSD_wood_06.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 510
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "db4d3": {
+      "importer": "gltf-scene",
+      "uuid": "928402f1-d7f4-4281-9702-930b1a98d0d8@db4d3",
+      "displayName": "",
+      "id": "db4d3",
+      "name": "SSD_wood_06.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "928402f1-d7f4-4281-9702-930b1a98d0d8@9aabd"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "928402f1-d7f4-4281-9702-930b1a98d0d8@db4d3"
+      ]
+    },
+    "tangents": 1,
+    "meshSimplify": {
+      "enable": false
+    },
+    "meshCompress": {
+      "enable": true,
+      "compress": true
+    }
+  }
+}

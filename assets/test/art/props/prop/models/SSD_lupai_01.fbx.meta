@@ -1,0 +1,86 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4fbaa776-78df-49df-a797-5fed7e517b72",
+  "files": [],
+  "subMetas": {
+    "21469": {
+      "importer": "gltf-mesh",
+      "uuid": "4fbaa776-78df-49df-a797-5fed7e517b72@21469",
+      "displayName": "",
+      "id": "21469",
+      "name": "SSD_lupai_01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 60
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b6a8c": {
+      "importer": "gltf-scene",
+      "uuid": "4fbaa776-78df-49df-a797-5fed7e517b72@b6a8c",
+      "displayName": "",
+      "id": "b6a8c",
+      "name": "SSD_lupai_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "4fbaa776-78df-49df-a797-5fed7e517b72@21469"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "4fbaa776-78df-49df-a797-5fed7e517b72@b6a8c"
+      ]
+    },
+    "tangents": 1,
+    "meshSimplify": {
+      "enable": false
+    },
+    "meshCompress": {
+      "enable": true,
+      "compress": true
+    }
+  }
+}

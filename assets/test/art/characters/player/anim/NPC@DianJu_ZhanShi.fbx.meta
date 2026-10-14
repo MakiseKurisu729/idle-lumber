@@ -1,0 +1,99 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "75e52550-2565-4b19-a0d7-36969464d247",
+  "files": [
+    "__original-animation-0.bin"
+  ],
+  "subMetas": {
+    "01dac": {
+      "importer": "gltf-animation",
+      "uuid": "75e52550-2565-4b19-a0d7-36969464d247@01dac",
+      "displayName": "",
+      "id": "01dac",
+      "name": "DianJu_ZhanShi.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "dc70f": {
+      "importer": "gltf-scene",
+      "uuid": "75e52550-2565-4b19-a0d7-36969464d247@dc70f",
+      "displayName": "",
+      "id": "dc70f",
+      "name": "NPC@DianJu_ZhanShi.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "DianJu_ZhanShi",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "01dac"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "75e52550-2565-4b19-a0d7-36969464d247@dc70f"
+      ]
+    }
+  }
+}

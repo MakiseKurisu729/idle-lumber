@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c32bd27f-dbf1-4657-98cc-c14c35110923",
+  "files": [],
+  "subMetas": {
+    "78794": {
+      "importer": "gltf-scene",
+      "uuid": "c32bd27f-dbf1-4657-98cc-c14c35110923@78794",
+      "displayName": "",
+      "id": "78794",
+      "name": "SSD_Coin_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "62e9b": {
+      "importer": "gltf-mesh",
+      "uuid": "c32bd27f-dbf1-4657-98cc-c14c35110923@62e9b",
+      "displayName": "",
+      "id": "62e9b",
+      "name": "SSD_Coin_01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 560
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1ea02": {
+      "importer": "gltf-material",
+      "uuid": "c32bd27f-dbf1-4657-98cc-c14c35110923@1ea02",
+      "displayName": "",
+      "id": "1ea02",
+      "name": "M_SSD_Coin_01.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "c32bd27f-dbf1-4657-98cc-c14c35110923@62e9b"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "c32bd27f-dbf1-4657-98cc-c14c35110923@1ea02"
+      ],
+      "scenes": [
+        "c32bd27f-dbf1-4657-98cc-c14c35110923@78794"
+      ]
+    }
+  }
+}

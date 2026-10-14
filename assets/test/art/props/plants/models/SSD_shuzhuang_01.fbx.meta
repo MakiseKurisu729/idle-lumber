@@ -1,0 +1,86 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9295e2e4-2f68-48e9-8e02-bd65e05daea5",
+  "files": [],
+  "subMetas": {
+    "bb821": {
+      "importer": "gltf-mesh",
+      "uuid": "9295e2e4-2f68-48e9-8e02-bd65e05daea5@bb821",
+      "displayName": "",
+      "id": "bb821",
+      "name": "SSD_shuzhuang_01.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 548
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c3cb3": {
+      "importer": "gltf-scene",
+      "uuid": "9295e2e4-2f68-48e9-8e02-bd65e05daea5@c3cb3",
+      "displayName": "",
+      "id": "c3cb3",
+      "name": "SSD_shuzhuang_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "9295e2e4-2f68-48e9-8e02-bd65e05daea5@bb821"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "9295e2e4-2f68-48e9-8e02-bd65e05daea5@c3cb3"
+      ]
+    },
+    "tangents": 1,
+    "meshSimplify": {
+      "enable": false
+    },
+    "meshCompress": {
+      "enable": true,
+      "compress": true
+    }
+  }
+}
